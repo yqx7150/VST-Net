@@ -29,11 +29,11 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
 "./Demo_test_VST_Net.m" is the demo of M2DAEP for TEST.
 
 ## Paper
-  @article{zhang2019vst, 
-  title={VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising}, 
- author={Zhang, Minghui and Zhang, Fengqin and Liu, Qiegen and Wang, Shanshan}, 
- journal={Journal of Visual Communication and Image Representation}, 
- year={2019}, 
- publisher={Elsevier}  
-}
-[paper]https://www.sciencedirect.com/science/article/pii/S1047320319301439
+        @article{zhang2019vst, 
+        title={VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising}, 
+        author={Zhang, Minghui and Zhang, Fengqin and Liu, Qiegen and Wang, Shanshan}, 
+        journal={Journal of Visual Communication and Image Representation}, 
+        year={2019}, 
+        publisher={Elsevier}  
+        }
+        [paper]https://www.sciencedirect.com/science/article/pii/S1047320319301439
