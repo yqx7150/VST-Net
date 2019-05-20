@@ -8,7 +8,7 @@ Inspired by the traditional VST scheme, we propose a novel Poisson denoising mod
 ### Fig.1
 ![repeat-VST_Net](https://github.com/yqx7150/VST-Net/blob/master/fig/fig1.png)
  
- The network architecture of the proposed VST-Net. It consists of three major components: SubNet1, SubNet2 and SubNet3. “C”, “B” and “R” stand for the Conv, BN and ReLU layers, respectively. For visual convenience, only one image from the 32 feature maps/images in the output of SubNet1 and SubNet2 is shown.
+The network architecture of the proposed VST-Net. It consists of three major components: SubNet1, SubNet2 and SubNet3. “C”, “B” and “R” stand for the Conv, BN and ReLU layers, respectively. For visual convenience, only one image from the 32 feature maps/images in the output of SubNet1 and SubNet2 is shown.
 ### Fig.2
 ![repeat-VST_Net](https://github.com/yqx7150/VST-Net/blob/master/fig/fig2.png)
 
