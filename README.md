@@ -14,6 +14,10 @@ The network architecture of the proposed VST-Net. It consists of three major com
 
 A special case of Fig. 1. The channel number of the last Conv layer at SubNet1 and SubNet2 is 1.
 
+### Fig.3
+PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 0.1, 2, 10 and 30.
+![repeat-VST_Net](https://github.com/yqx7150/VST-Net/blob/master/fig/fig3.png)
+
 ## Requirements and Dependencies
     MATLAB R2015b
     Cuda-8.0
@@ -24,4 +28,4 @@ A special case of Fig. 1. The channel number of the last Conv layer at SubNet1 a
 
 ## paper
 Minghui Zhang, Fengqin Zhang, Qiegen Liu*, Shanshan Wang*, VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising, J. Vis. Commun. Image R., 62: 12-22, 2019. 
-https://www.sciencedirect.com/science/article/pii/S1047320319301439
+[paper]https://www.sciencedirect.com/science/article/pii/S1047320319301439
