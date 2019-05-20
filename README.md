@@ -33,14 +33,5 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
  year={2019}, 
  publisher={Elsevier} 
 }
-@article{zhang2017beyond,
-  title={Beyond a {Gaussian} denoiser: Residual learning of deep {CNN} for image denoising},
-  author={Zhang, Kai and Zuo, Wangmeng and Chen, Yunjin and Meng, Deyu and Zhang, Lei},
-  journal={IEEE Transactions on Image Processing},
-  year={2017},
-  volume={26}, 
-  number={7}, 
-  pages={3142-3155}, 
-}
 
 [paper]https://www.sciencedirect.com/science/article/pii/S1047320319301439
