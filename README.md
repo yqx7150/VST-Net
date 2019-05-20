@@ -15,7 +15,7 @@ The network architecture of the proposed VST-Net. It consists of three major com
 A special case of Fig. 1. The channel number of the last Conv layer at SubNet1 and SubNet2 is 1.
 ### Fig.3
 PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 0.1, 2, 10 and 30.
-<div align=center><img src="https://github.com/yqx7150/VST-Net/blob/master/fig/fig3.png" width="650" height="800" alt="PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 0.1, 2, 10 and 30."/></div>
+<div align=center><img src="https://github.com/yqx7150/VST-Net/blob/master/fig/fig3.png" width="700" height="900" alt="PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 0.1, 2, 10 and 30."/></div>
 
 ## Requirements and Dependencies
     MATLAB R2015b
