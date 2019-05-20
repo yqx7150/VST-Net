@@ -16,7 +16,7 @@ A special case of Fig. 1. The channel number of the last Conv layer at SubNet1 a
 
 ### Fig.3
 PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 0.1, 2, 10 and 30.
-![repeat-VST_Net](https://github.com/yqx7150/VST-Net/blob/master/fig/fig3.png)
+![repeat-VST_Net](https://github.com/yqx7150/VST-Net/blob/master/fig/fig3.png?imageMogr2/auto-orient/strip)
 
 ## Requirements and Dependencies
     MATLAB R2015b
