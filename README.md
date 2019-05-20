@@ -27,7 +27,7 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
 
 ## Paper
 @article{zhang2019vst, 
- title={VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising}, 
+  title={VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising}, 
  author={Zhang, Minghui and Zhang, Fengqin and Liu, Qiegen and Wang, Shanshan}, 
  journal={Journal of Visual Communication and Image Representation}, 
  year={2019}, 
