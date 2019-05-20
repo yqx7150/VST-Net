@@ -21,10 +21,9 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
 ## Requirements and Dependencies
     MATLAB R2015b
     Cuda-8.0
-    MatConvNet
 
 ## How to test
-"./Demo_test_VST_Net.m" is the demo of M2DAEP for TEST.
+"./Demo_test_VST_Net.m" is the demo for TEST.
 
 ## [Paper](https://www.sciencedirect.com/science/article/pii/S1047320319301439)
         @article{zhang2019vst, 
