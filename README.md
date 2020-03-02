@@ -43,3 +43,5 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
   * IFR-Net: Iterative Feature Refinement Network for Compressed Sensing MRI [<font size=5>**[Paper]**</font>](https://ieeexplore.ieee.org/document/8918016)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IFR-Net-Code)
     
   * Iterative scheme-inspired network for impulse noise removal [<font size=5>**[Paper]**</font>](https://link.springer.com/article/10.1007/s10044-018-0762-8)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/IIN-Code)
+
+  * A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction and Its Beyond [<font size=5>**[Paper]**</font>](https://sciencedirect.xilesou.top/science/article/abs/pii/S0923596519302358)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCCN)
