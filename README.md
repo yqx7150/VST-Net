@@ -1,6 +1,7 @@
 # VST-Net
 The Code is created based on the method described in the following paper:
-VST-Net: Variance-stabilizing Transformation Inspired Network for Poisson Denoising 
+M. Zhang, F. Zhang, Q. Liu, S. Wang, VST-Net: Variance-stabilizing transformation inspired network for Poisson denoising,    
+J. Vis. Commun. Image R., 62: 12-22, 2019.    
 
 
 ## Introduction 
