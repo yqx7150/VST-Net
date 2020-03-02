@@ -33,3 +33,8 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
         year={2019}, 
         publisher={Elsevier}  
         }
+
+
+
+## Other Related Projects
+  * Variable augmented neural network for decolorization and multi-exposure fusion [<font size=5>**[Paper]**</font>](https://www.sciencedirect.com/science/article/abs/pii/S1566253517305298)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DecolorNet_FusionNet_code)   [<font size=5>**[Slide]**</font>](https://github.com/yqx7150/EDAEPRec/tree/master/Slide)
