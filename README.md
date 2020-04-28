@@ -46,4 +46,4 @@ PSNR (dB) and SSIM performance of different methods on Set11 over four peaks at 
 
   * A Comparative Study of CNN-based Super-resolution Methods in MRI Reconstruction and Its Beyond [<font size=5>**[Paper]**</font>](https://sciencedirect.xilesou.top/science/article/abs/pii/S0923596519302358)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/DCCN)
 
-  * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Paper]**</font>](http://archive.ismrm.org/2018/0773.html)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet) 
+  * Progressively distribution-based Rician noise removal for magnetic resonance imaging [<font size=5>**[Paper1]**</font>](https://doi.org/10.1016/j.mri.2020.04.006)   [<font size=5>**[Paper2]**</font>](http://archive.ismrm.org/2018/0773.html)   [<font size=5>**[Code]**</font>](https://github.com/yqx7150/RicianNet) 
